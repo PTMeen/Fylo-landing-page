@@ -7,7 +7,7 @@ import Testimony from './Testomony';
 
 const Feature = () => {
   return (
-    <section className='relative w-screen bg-lightGrayishBlue mt-16'>
+    <section className=' relative  bg-lightGrayishBlue mt-16'>
       <div>
         <img
           className='w-screen absolute -top-8 lg:hidden'
